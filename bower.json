@@ -1,0 +1,9 @@
+{
+  "name": "testList",
+  "version": "0",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "modularized-normalize-scss": "git@github.com:hail2u/normalize.scss.git#~3.0.3"
+  },
+  "private":true
+}

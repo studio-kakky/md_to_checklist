@@ -1,0 +1,30 @@
+{
+  "name": "test_list_management",
+  "version": "0.0.1",
+  "description": "受け入れテスト用",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flatzjp/FLATz_SonyPayment.git"
+  },
+  "author": "Flatz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flatzjp/FLATz_SonyPayment/issues"
+  },
+  "homepage": "https://github.com/flatzjp/FLATz_SonyPayment",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-markdown": "^1.0.0",
+    "gulp-replace": "^0.5.4",
+    "gulp-sass": "^2.0.4",
+    "gulp-shell": "^0.4.2",
+    "gulp-wrapper": "^1.0.0",
+    "markdown-styles": "^2.4.0"
+  }
+}
